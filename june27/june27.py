@@ -1,0 +1,6 @@
+print ("hi")
+print ("hi", end='')
+print ("\ni really do \nreally relly \nscratch already')
+       print ("hi", end='')
+print ("\ni really do \nreally relly \nscratch already')
+print ('hi')
